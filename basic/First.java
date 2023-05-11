@@ -14,9 +14,6 @@ public class First{
                 System.out.println("first case");
                 break;
         
-            default:
-            System.out.println("default case");
-                break;
         }
 
     }
